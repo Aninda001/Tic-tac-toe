@@ -4,7 +4,7 @@ This project link - [here.](https://tic-tac-toe.42web.io/)
 
 ## Description
 
-![A preview of the output.](/assets/Screenshot 2023-06-20 at 12-27-45 Tic-Tac-Toe Online.png "A preview of the output.")
+![A preview of the output.](/assets/preview_screenshot.png "A preview of the output.")
 *A preview of the output.*
 
 There are two type of playing mode - 
